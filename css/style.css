@@ -1,0 +1,95 @@
+div{
+	width: 100%;
+}
+nav{
+	height: 60px;
+}
+.logo-list{
+height: 60px;
+margin-right: 40px;
+}
+.container-fluid{
+	position: relative;
+	padding: 0px;
+
+}
+.grocery{
+	background:url(../image/grocerydelivery.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+}
+/*.grocery .btn{
+	position: absolute;
+	top: 60%;
+	left: 35%;
+	padding: 12px 24px;
+	width: 400px;
+	background-color: darkgreen;
+	font-family: Time New Romans;
+	font-size: 25px;
+}*/
+h4{
+	color: darkgrey;
+}
+.card-footer{
+	padding-left: 0px;
+	background-color: #4f4f4f;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 100%;
+	width: 100%;
+	font-size: 20px;
+	font-family: Verdana;
+}
+.header{
+	padding-top: 25px;
+	padding-left: 40px;
+}
+.fa{
+	padding-left: 10px;
+ 	width: 45px;
+	  border-radius: 50%;
+	  font-family: verdana;
+}
+#myHeader {
+			width: 100%;
+			height: 80px;
+			background-color: green;
+			padding: 0px;
+			border: 2px;
+		}
+h2{
+	padding-top: 20px;
+}
+.laundry{
+	background:url(../image/wash.png);
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 0px;
+}
+.laundry .card{
+	background-color: grey;
+	margin-right: 10px;
+}
+.sales{
+	background:url(../image/store.jpg);
+	background-size: cover;
+	background-position:center;
+	padding: 20px;
+}
+.sales .card{
+	/* position: absolute;
+	top: 2%;
+	right: 40%;
+	padding: 12px 24px;
+	width: 1000px;
+	background-color: white;
+	font-family: cosmic sans;
+	font-size: 25px; */
+}
+.track .card{
+	background-color: #222222;
+	border-radius: none;
+}
